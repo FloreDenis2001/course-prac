@@ -1,0 +1,18 @@
+1,Operator,Sales,889.0
+2,Chief Design Engineer,Marketing,763.0
+3,Engineer II,Legal,968.0
+4,Actuary,Product Management,537.0
+5,VP Marketing,Research and Development,1000.0
+6,Assistant Media Planner,Accounting,704.0
+7,Information Systems Manager,Research and Development,650.0
+8,Web Developer III,Human Resources,525.0
+9,Sales Associate,Research and Development,534.0
+10,Dental Hygienist,Sales,600.0
+11,Account Representative III,Research and Development,977.0
+12,Editor,Legal,1000.0
+13,General Manager,Services,954.0
+14,Technical Writer,Sales,904.0
+15,Junior Executive,Legal,706.0
+16,Safety Technician III,Product Management,771.0
+17,Product Engineer,Engineering,747.0
+18,Database Administrator II,Product Management,606.0
